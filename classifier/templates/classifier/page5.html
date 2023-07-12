@@ -12,6 +12,11 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap"
     />
     <style>
+
+      .result {
+        color: black;
+
+      }
       .go-back-wrapper {
         position: fixed;
         bottom: 20px;
@@ -40,7 +45,7 @@
       }
       
       .disease-diagnosed {
-        color: black;
+        color: rgb(255, 255, 255);
         font-weight: bold;
         font-family: 'Inter', sans-serif; /* Add a font that supports emojis */
       }
@@ -52,7 +57,7 @@
       <div class="disease-diagnosed-parent">
         <b class="disease-diagnosed">Disease diagnosed: {{ prediction }}</b>
       </div>
-      <div class="result">Result</div>
+      <div class="result" style="color:black !important;">Result</div>
       <div class="go-back-wrapper">
         <a class="image-upload-failed go-back-button" href="/upload">Go Back</a>
       </div>             
