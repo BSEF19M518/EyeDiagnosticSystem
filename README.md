@@ -88,6 +88,6 @@ This project is licensed under the MIT License.
 
 For any inquiries or questions, please contact the project owner:
 
-Name: Haris Iftikhar
+Name: Haris Iftikhar, Waleed Mustafa, and Muhammad Umar
 Email: harisiftikhar109@gmail.com
 Feel free to reach out for support or collaboration opportunities.
